@@ -88,8 +88,8 @@ This **Human Resources Management System (HRMS)** is a web-based application dev
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-repo/hr-management-system.git
-   cd hr-management-system
+   git clone https://github.com/Dallas-iKe/HRMS_App.git
+   cd HRMS_App
    ```
 
 2. **Database Setup**:
@@ -101,7 +101,7 @@ This **Human Resources Management System (HRMS)** is a web-based application dev
    - Start Apache and MySQL from the XAMPP/WAMP control panel.
 
 4. **Access the System**:
-   - Open your browser and navigate to `http://localhost/hr-management-system/login.php`.
+   - Open your browser and navigate to `http://localhost/HRMS_App/login.php`.
    - Use default credentials (create an admin user or import them directly into the database).
 
 ---
@@ -169,12 +169,6 @@ This **Human Resources Management System (HRMS)** is a web-based application dev
 
 - **More Reports**:
   - Create advanced report generation for HR and Admin users (e.g., monthly performance, salary summaries).
-
----
-
-### License
-
-This project is licensed under the MIT License.
 
 ---
 
